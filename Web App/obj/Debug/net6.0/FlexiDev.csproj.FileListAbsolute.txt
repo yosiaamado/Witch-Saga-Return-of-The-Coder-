@@ -1,0 +1,84 @@
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\appsettings.Development.json
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\appsettings.json
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\Web App\obj\FlexiDev.csproj.nuget.dgspec.json
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\Web App\obj\project.assets.json
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\FlexiDev.staticwebassets.runtime.json
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\FlexiDev.exe
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\FlexiDev.deps.json
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\FlexiDev.runtimeconfig.json
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\FlexiDev.dll
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\FlexiDev.pdb
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\Castle.Core.dll
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\Moq.dll
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\xunit.abstractions.dll
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\xunit.assert.dll
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\xunit.core.dll
+D:\SH Repos\FlexiDev\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\FlexiDev.csproj.AssemblyReference.cache
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\FlexiDev.GeneratedMSBuildEditorConfig.editorconfig
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\FlexiDev.AssemblyInfoInputs.cache
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\FlexiDev.AssemblyInfo.cs
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\FlexiDev.csproj.CoreCompileInputs.cache
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\FlexiDev.MvcApplicationPartsAssemblyInfo.cache
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\FlexiDev.RazorAssemblyInfo.cache
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\FlexiDev.RazorAssemblyInfo.cs
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\staticwebassets.build.json
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\staticwebassets.development.json
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\staticwebassets\msbuild.FlexiDev.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\staticwebassets\msbuild.build.FlexiDev.props
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FlexiDev.props
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FlexiDev.props
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\scopedcss\bundle\FlexiDev.styles.css
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\scopedcss\projectbundle\FlexiDev.bundle.scp.css
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\FlexiDev.csproj.Up2Date
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\FlexiDev.dll
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\refint\FlexiDev.dll
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\FlexiDev.pdb
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\FlexiDev.genruntimeconfig.cache
+D:\SH Repos\FlexiDev\obj\Debug\net6.0\ref\FlexiDev.dll
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\appsettings.Development.json
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\appsettings.json
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\FlexiDev.staticwebassets.runtime.json
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\FlexiDev.exe
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\FlexiDev.deps.json
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\FlexiDev.runtimeconfig.json
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\FlexiDev.dll
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\FlexiDev.pdb
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\Castle.Core.dll
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\Moq.dll
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\xunit.abstractions.dll
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\xunit.assert.dll
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\xunit.core.dll
+D:\SH Repos\FlexiDev\Web App\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\FlexiDev.csproj.AssemblyReference.cache
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\FlexiDev.GeneratedMSBuildEditorConfig.editorconfig
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\FlexiDev.AssemblyInfoInputs.cache
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\FlexiDev.AssemblyInfo.cs
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\FlexiDev.csproj.CoreCompileInputs.cache
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\FlexiDev.MvcApplicationPartsAssemblyInfo.cache
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\FlexiDev.RazorAssemblyInfo.cache
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\FlexiDev.RazorAssemblyInfo.cs
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\staticwebassets.build.json
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\staticwebassets.development.json
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\staticwebassets\msbuild.FlexiDev.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\staticwebassets\msbuild.build.FlexiDev.props
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FlexiDev.props
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FlexiDev.props
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\scopedcss\bundle\FlexiDev.styles.css
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\scopedcss\projectbundle\FlexiDev.bundle.scp.css
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\FlexiDev.csproj.Up2Date
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\FlexiDev.dll
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\refint\FlexiDev.dll
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\FlexiDev.pdb
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\FlexiDev.genruntimeconfig.cache
+D:\SH Repos\FlexiDev\Web App\obj\Debug\net6.0\ref\FlexiDev.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlexiDev", "Web App\FlexiDev.csproj", "{F371C853-5399-4C77-A852-A9D8B6AA528C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "UnitTest\UnitTest.csproj", "{1F4C7A78-5FCA-4BE4-BD57-48093BCEC602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F371C853-5399-4C77-A852-A9D8B6AA528C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F371C853-5399-4C77-A852-A9D8B6AA528C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F371C853-5399-4C77-A852-A9D8B6AA528C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F371C853-5399-4C77-A852-A9D8B6AA528C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F4C7A78-5FCA-4BE4-BD57-48093BCEC602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4C7A78-5FCA-4BE4-BD57-48093BCEC602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4C7A78-5FCA-4BE4-BD57-48093BCEC602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4C7A78-5FCA-4BE4-BD57-48093BCEC602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB1A59AA-575C-433E-9A16-771F4680AEF6}
+	EndGlobalSection
+EndGlobal

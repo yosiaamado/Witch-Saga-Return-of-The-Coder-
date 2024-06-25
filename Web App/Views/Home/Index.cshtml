@@ -1,0 +1,39 @@
+﻿@model List<FlexiDev.Models.Person>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="container justify-content-center">
+        <h1 class="mb-4 text-center">Witch Villager App</h1>
+
+        <div class="card shadow-lg">
+            <div class="card-body">
+                <form asp-action="Calculate" method="post">
+                    <div id="personInputs">
+                        <h2 class="mb-3">Person A</h2>
+                        <div class="form-group">
+                            <label for="personA-age">Age of Death:</label>
+                            <input type="number" name="data[0].Age" class="form-control" id="personA-age" required />
+                        </div>
+                        <div class="form-group">
+                            <label for="personA-yearOfDeath">Year of Death:</label>
+                            <input type="number" name="data[0].YearOfDeath" class="form-control" id="personA-yearOfDeath" required />
+                        </div>
+
+                        <h2 class="mb-3 mt-3">Person B</h2>
+                        <div class="form-group">
+                            <label for="personB-age">Age of Death:</label>
+                            <input type="number" name="data[1].Age" class="form-control" id="personB-age" required />
+                        </div>
+                        <div class="form-group">
+                            <label for="personB-yearOfDeath">Year of Death:</label>
+                            <input type="number" name="data[1].YearOfDeath" class="form-control" id="personB-yearOfDeath" required />
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary mt-3 btn-block">Calculate Average</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
